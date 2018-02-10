@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1518246380 source:/home/kris/Downloads/C_study/chapter01/main.c
+	<stdio.h>
+	<stdlib.h>
+	"../lib/unp.h"
+
+1064026289 source:/home/kris/Downloads/C_study/lib/error.c
+	"unp.h"
+	<stdarg.h>
+	<syslog.h>
+
+1070217527 /home/kris/Downloads/C_study/lib/unp.h
+	"../config.h"
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<time.h>
+	<sys/time.h>
+	<time.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<errno.h>
+	<fcntl.h>
+	<netdb.h>
+	<signal.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/stat.h>
+	<sys/uio.h>
+	<unistd.h>
+	<sys/wait.h>
+	<sys/un.h>
+	<sys/select.h>
+	<sys/param.h>
+	<sys/sysctl.h>
+	<poll.h>
+	<sys/event.h>
+	<strings.h>
+	<sys/ioctl.h>
+	<sys/filio.h>
+	<sys/sockio.h>
+	<pthread.h>
+	<net/if_dl.h>
+	<netinet/sctp.h>
+	"../lib/addrinfo.h"
+
+1518069552 /home/kris/Downloads/C_study/config.h
+
+1037244813 /home/kris/Downloads/C_study/lib/addrinfo.h
+
+1518251764 source:/home/kris/Downloads/C_study/chapter01/main_ipv6.c
+	<stdio.h>
+	<stdlib.h>
+	"../lib/unp.h"
+
